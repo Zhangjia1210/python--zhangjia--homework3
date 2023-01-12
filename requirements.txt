@@ -1,0 +1,10 @@
+numpy>=1.23.2
+scipy>=1.9.1
+scikit-learn>=1.1.2
+pandas>=1.4.4
+seaborn>=0.12.0
+ipywidgets>=8.0.2
+matplotlib>=3.5.3
+plotly>=5.10.0
+sympy>=1.11.1
+h5py>=3.7.0
